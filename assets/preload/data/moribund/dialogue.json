@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh...hey again, dude..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess you made it out alive as well..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "You know, kid..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I haven't experienced something this tragic in a while..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Especially when I can't talk about it to her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "She was the only one who really helped me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "I know you did too, little dude, and I'm really thankful for that..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "I-It's just...*sniff*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "I wish I could've saved her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "But I couldn't..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "I wasn't there to save her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "I never even got to say goodbye..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "*sniff*...ya know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I would like to take a moment of silence for her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "But I think I have a better idea..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "An idea that'll let her live on even though she's gone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "What do you say, little dude?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I wish she was here right now.."
+		}
+	]
+}
