@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Ya know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmaobutdark",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AUUUUUUUUUGGGGGGHHHHHHHH!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmaobutdark",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmaobutdark",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}
